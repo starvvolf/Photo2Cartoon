@@ -3,8 +3,8 @@ Cartoonize photo by openCV
 
 ----------------------------------------------------------------------------------------------------------  
 # How to use
-![image](https://github.com/starvvolf/Photo2Cartoon/assets/118524918/6236ac64-c494-4988-8650-09ef5c498b41)
-Please change the ID to the URL of the photo you want to cartoonize. 
+![image](https://github.com/starvvolf/Photo2Cartoon/assets/118524918/6236ac64-c494-4988-8650-09ef5c498b41)  
+Please change the ID to the URL of the photo you want to cartoonize.  
 The file must be located within the directory containing the Python file.  
 
 ----------------------------------------------------------------------------------------------------------  
